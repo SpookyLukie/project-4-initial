@@ -27,8 +27,8 @@ public class RowRowRowYourBoat {
         System.out.println("2) " + stream.sortedFruitsException());
         System.out.println("3) " + stream.sortedFruitsFirstTwo());
         System.out.println("4) " + stream.commaSeparatedListOfFruits());
-        System.out.println("5) " + stream.reverseSortedVeggies());
-        System.out.println("6) " + stream.reverseSortedVeggiesInUpperCase());
+        System.out.println("5) " + stream.reverseSortedVeggies());              //FIX
+        System.out.println("6) " + stream.reverseSortedVeggiesInUpperCase());   //FIX
         System.out.println("7) " + stream.topTen());
         System.out.println("8) " + stream.topTenUnique());
         System.out.println("9) " + stream.topTenUniqueOdd());
